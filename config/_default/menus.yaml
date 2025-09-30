@@ -1,0 +1,93 @@
+hide_download: true
+hide_download_original: null
+leftnav:
+- identifier: ed70a908-49a7-bf8c-3aaf-15bec6c799ec
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 8a8a4503-b6f2-a9fe-7425-59e8ce875be2
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: cc884776-d3cd-557c-aff9-cbaa3efaf7ab
+  name: Readings
+  pageRef: /pages/readings
+  weight: 30
+- identifier: daa55d0c-6c18-de2e-2e41-ccb7ff7b31fa
+  name: Assignments
+  pageRef: /pages/assignments/
+  weight: 40
+- identifier: 361dc956-d656-474e-311b-b20da638c076
+  name: Prose to Poetry
+  pageRef: /pages/assignments/prose-to-poetry
+  parent: daa55d0c-6c18-de2e-2e41-ccb7ff7b31fa
+  weight: 50
+- identifier: c24f2ade-38b3-66cf-be77-874a69570469
+  name: Informal Essays
+  pageRef: /pages/assignments/informal-essays
+  parent: daa55d0c-6c18-de2e-2e41-ccb7ff7b31fa
+  weight: 60
+- identifier: 4168199b-a2a7-02ba-ee79-cc64138ded5b
+  name: Poetry Analysis I
+  pageRef: /pages/assignments/poetry-analysis-i
+  parent: daa55d0c-6c18-de2e-2e41-ccb7ff7b31fa
+  weight: 70
+- identifier: 38928765-d597-4872-a407-7c5c187768e8
+  name: Etymologies and Rhythms
+  pageRef: /pages/assignments/etymologies-and-rhythms
+  parent: daa55d0c-6c18-de2e-2e41-ccb7ff7b31fa
+  weight: 80
+- identifier: aa47f56f-415e-43a5-2483-7f564e2502dd
+  name: The Shape of Sentences
+  pageRef: /pages/assignments/the-shape-of-sentences
+  parent: daa55d0c-6c18-de2e-2e41-ccb7ff7b31fa
+  weight: 90
+- identifier: c1dcf6e7-5c32-e317-a1d2-91c44e833504
+  name: Poetry Analysis II
+  pageRef: /pages/assignments/poetry-analysis-ii
+  parent: daa55d0c-6c18-de2e-2e41-ccb7ff7b31fa
+  weight: 100
+- identifier: a17e8418-5cdd-3093-ff8b-23adcf67ff72
+  name: Sonnets and Rhythm
+  pageRef: /pages/assignments/sonnets-and-rhythm
+  parent: daa55d0c-6c18-de2e-2e41-ccb7ff7b31fa
+  weight: 110
+- identifier: d9251c7b-e2ac-ff1b-5025-0c03d45b0c56
+  name: Poetry Analysis III
+  pageRef: /pages/assignments/poetry-analysis-iii
+  parent: daa55d0c-6c18-de2e-2e41-ccb7ff7b31fa
+  weight: 120
+- identifier: c230b868-54fe-7879-9139-d6b0a3bd8ea8
+  name: Difficult Poem
+  pageRef: /pages/assignments/difficult-poem
+  parent: daa55d0c-6c18-de2e-2e41-ccb7ff7b31fa
+  weight: 130
+- identifier: 4af53977-4ad1-a6a4-e3d6-dbf7152722d3
+  name: Essay Revision
+  pageRef: /pages/assignments/essay-revision
+  parent: daa55d0c-6c18-de2e-2e41-ccb7ff7b31fa
+  weight: 140
+- identifier: 8ec86e4b-babe-566b-dd6e-5cb3ec53c7fd
+  name: Metaphors
+  pageRef: /pages/assignments/metaphors
+  parent: daa55d0c-6c18-de2e-2e41-ccb7ff7b31fa
+  weight: 150
+- identifier: 81d3d030-9be6-c7f8-1d33-0cf3bef2ab2f
+  name: Poetry Analysis IV
+  pageRef: /pages/assignments/poetry-analysis-iv
+  parent: daa55d0c-6c18-de2e-2e41-ccb7ff7b31fa
+  weight: 160
+- identifier: a26b016a-7ba5-398d-0261-ad4d64125f93
+  name: Analytic Essay
+  pageRef: /pages/assignments/analytic-essay
+  parent: daa55d0c-6c18-de2e-2e41-ccb7ff7b31fa
+  weight: 170
+- identifier: 6b5740ce-092a-fb55-41c0-3e15001ca3bf
+  name: Final Presentation Report
+  pageRef: /pages/assignments/final-presentation-report
+  parent: daa55d0c-6c18-de2e-2e41-ccb7ff7b31fa
+  weight: 180
+- identifier: 36dbae1f-22c4-0737-4534-30b5f4ac1058
+  name: Related Resources
+  pageRef: /pages/related-resources
+  weight: 190
