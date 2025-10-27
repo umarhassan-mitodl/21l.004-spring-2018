@@ -2,8 +2,6 @@
 content_type: page
 description: This page contains instructions for the three informal essays that are
   due throughout the term.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

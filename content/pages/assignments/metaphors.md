@@ -15,15 +15,15 @@ uid: 8ec86e4b-babe-566b-dd6e-5cb3ec53c7fd
 Readings
 --------
 
-Frost, Robert. "[Birches](https://www.poetryfoundation.org/poems/44260/birches)." In _The Poetry of Rober Frost_. Henry Holt and Co., 1979. ISBN: 9780805005028.
+Frost, Robert. "{{% resource_link "aaa13a71-5139-4ef0-a90f-e18146b86113" "Birches" %}}." In _The Poetry of Rober Frost_. Henry Holt and Co., 1979. ISBN: 9780805005028.
 
-Hughes, Langston. "[Harlem](https://www.poetryfoundation.org/poems/46548/harlem)." In _Selected Poems of Langston Hughes_. Vintage Classics, 1990. ISBN: 9780679728184.
+Hughes, Langston. "{{% resource_link "922afb20-9e69-47be-8cb0-1770e771d4b2" "Harlem" %}}." In _Selected Poems of Langston Hughes_. Vintage Classics, 1990. ISBN: 9780679728184.
 
-Pardlo, Gregory. "[Double Dutch](https://www.poetryfoundation.org/poems/54804/double-dutch)." In _Totem_. The American Poetry Review, 2007. ISBN: 9780977639533.
+Pardlo, Gregory. "{{% resource_link "7e0c13d2-d200-48ab-ae9b-c5b2ef70f675" "Double Dutch" %}}." In _Totem_. The American Poetry Review, 2007. ISBN: 9780977639533.
 
-Cohen, Andrea. "[Lit](https://www.newyorker.com/magazine/2015/02/16/lit-2)." _The New Yorker._ February 16, 2015.
+Cohen, Andrea. "{{% resource_link "49593b8d-bf01-4208-b475-8232c7a2abe6" "Lit" %}}." _The New Yorker._ February 16, 2015.
 
-Dunbar, Paul "[We Wear the Mask](https://www.poetryfoundation.org/poems/44203/we-wear-the-mask)." In _The Complete Poems of Paul Laurence Dunbar_. Dodd, CreateSpace, 2017. ISBN: 9781475157574.
+Dunbar, Paul "{{% resource_link "c0dbc24f-505d-41de-a473-8c2fe121fc79" "We Wear the Mask" %}}." In _The Complete Poems of Paul Laurence Dunbar_. Dodd, CreateSpace, 2017. ISBN: 9781475157574.
 
  Jess, Tyehimba. "Booker-Washington Double Shovel." In _Olio_. Wave Books, 2016. ISBN: 9781940696201.
 

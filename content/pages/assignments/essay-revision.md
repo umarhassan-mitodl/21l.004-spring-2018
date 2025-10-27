@@ -2,8 +2,6 @@
 content_type: page
 description: This page contains instructions for revising one of the shorter essays
   written earlier in the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: Instructions on writing the final presentation report.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

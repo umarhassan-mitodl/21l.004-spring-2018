@@ -2,8 +2,6 @@
 content_type: page
 description: The readings and analysis questions for session eight on forms of poetry
   and includes vocabulary.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -17,25 +15,25 @@ uid: c1dcf6e7-5c32-e317-a1d2-91c44e833504
 Readings
 --------
 
-Shakespeare, William. "[Sonnet 18](https://www.poetryfoundation.org/poems/45087/sonnet-18-shall-i-compare-thee-to-a-summers-day)", "[Sonnet 60](https://www.poetryfoundation.org/poems/45095/sonnet-60-like-as-the-waves-make-towards-the-pebbld-shore)", "[Sonnet 65](https://www.poetryfoundation.org/poems/50646/sonnet-65-since-brass-nor-stone-nor-earth-nor-boundless-sea)." Poetry Foundation.
+Shakespeare, William. "{{% resource_link "7e7daeb0-6933-41a8-8ac6-9b8b4a5a18ae" "Sonnet 18" %}}", "{{% resource_link "cbd00c41-4cb8-4c02-9d64-62a8f5a48e01" "Sonnet 60" %}}", "{{% resource_link "e6b3544c-8a32-49d4-b712-b7762c085df1" "Sonnet 65" %}}." Poetry Foundation.
 
-Spenser, Edmund. "[Amoretti LXXV](https://www.poetryfoundation.org/poems/45189/amoretti-lxxv-one-day-i-wrote-her-name)", "[Amoretti LXXXI](https://www.poetryfoundation.org/poems/50057/amoretti-lxxxi-fayre-is-my-love-when-her-fayre-golden-heares)." Poetry Foundation.
+Spenser, Edmund. "{{% resource_link "d169bc6e-7d08-4d8e-b853-1a11dd88b1f7" "Amoretti LXXV" %}}", "{{% resource_link "44db5161-2a66-4606-a3c1-582a03d7cb28" "Amoretti LXXXI" %}}." Poetry Foundation.
 
-Sidney, Philip. "[Astrophil and Stella 1](https://www.poetryfoundation.org/poems/45152/astrophil-and-stella-1-loving-in-truth-and-fain-in-verse-my-love-to-show)", "[Astrophil and Stella 31](https://www.poetryfoundation.org/poems/45158/astrophil-and-stella-31-with-how-sad-steps-o-moon-thou-climbst-the-skies)." Poetry Foundation.
+Sidney, Philip. "{{% resource_link "acc5c720-6e14-4278-a220-97d2c90ae4f9" "Astrophil and Stella 1" %}}", "{{% resource_link "a12ae876-9ce3-4939-bf28-7b608c76996b" "Astrophil and Stella 31" %}}." Poetry Foundation.
 
-Larkin, Philip. "[Sad Steps](https://www.poetryfoundation.org/poems/48418/sad-steps)." In _Collected Poems_. Farrar, Straus and Grioux, 2004. ISBN: 9780374529208.
+Larkin, Philip. "{{% resource_link "78539162-c7cd-4edb-98ac-3dbc48d918e1" "Sad Steps" %}}." In _Collected Poems_. Farrar, Straus and Grioux, 2004. ISBN: 9780374529208.
 
-Brooks, Gwendolyn. "[my dreams, my works, must wait till after hell](https://www.poetryfoundation.org/poems/43315/my-dreams-my-works-must-wait-till-after-hell)." In _Selected Poems_. Harper & Row, 1963. ISBN: 9780060909895.
+Brooks, Gwendolyn. "{{% resource_link "889d7a22-c486-4fcc-95ba-967e8bac4247" "my dreams, my works, must wait till after hell" %}}." In _Selected Poems_. Harper & Row, 1963. ISBN: 9780060909895.
 
-Brooks, Gwendolyn. "[the rites for Cousin Vit](https://www.poetryfoundation.org/poems/51983/the-rites-for-cousin-vit)." In _The Norton Anthology of Poetry Fifth Edition_. W.W. Norton and Company, 2005. ISBN: 9780393979206.
+Brooks, Gwendolyn. "{{% resource_link "23536438-75a9-4d34-953d-ecb8236363eb" "the rites for Cousin Vit" %}}." In _The Norton Anthology of Poetry Fifth Edition_. W.W. Norton and Company, 2005. ISBN: 9780393979206.
 
-Johnson, James. "[Lift Every Voice and Sing](https://www.poetryfoundation.org/poems/46549/lift-every-voice-and-sing)." In _Complete Poems_. Penguin Classics, 2000. ISBN: 9780374518172.
+Johnson, James. "{{% resource_link "d7b488fe-cf32-4e56-afa9-d7c888bc0d07" "Lift Every Voice and Sing" %}}." In _Complete Poems_. Penguin Classics, 2000. ISBN: 9780374518172.
 
-Bishop, Elizabeth. "[One Art](https://www.poetryfoundation.org/poems/47536/one-art)." In _The Complete Poems 1926-1979_. Farrar, Straus and Giroux, 1983. ISBN: 9780374518172.
+Bishop, Elizabeth. "{{% resource_link "45b9ca76-6690-4c42-9f01-e47c63ba3d7b" "One Art" %}}." In _The Complete Poems 1926-1979_. Farrar, Straus and Giroux, 1983. ISBN: 9780374518172.
 
-Collins, Martha. "[The Story We Know](https://www.poetryfoundation.org/poetrymagazine/browse?contentId=34705)." _Poetry_. December, 1980.
+Collins, Martha. "{{% resource_link "51fff044-8613-4d71-a0ee-cecf1bafe856" "The Story We Know" %}}." _Poetry_. December, 1980.
 
-Hayes, Terence. "[The Golden Shovel](https://www.poetryfoundation.org/poems/55678/the-golden-shovel)." In _Lighthead_. Penguin Books, 2010. ISBN: 9780143116967.
+Hayes, Terence. "{{% resource_link "383fb6db-f13c-45dd-9930-de359cf06235" "The Golden Shovel" %}}." In _Lighthead_. Penguin Books, 2010. ISBN: 9780143116967.
 
 Things to mark up/questions to ask when you read a poem (a running list):
 -------------------------------------------------------------------------

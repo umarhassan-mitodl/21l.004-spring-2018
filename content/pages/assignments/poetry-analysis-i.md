@@ -2,8 +2,6 @@
 content_type: page
 description: The readings and analysis questions for session four on etymologies and
   rhythms.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -17,11 +15,11 @@ uid: 4168199b-a2a7-02ba-ee79-cc64138ded5b
 Readings
 --------
 
-Bishop, Elizabeth "[At the Fishhouses](https://www.poetryfoundation.org/poems/52192/at-the-fishhouses)." In _The Complete Poems, 1927-1979._ Farrar, Straus and Giroux, 1983. ISBN: 978037451872.
+Bishop, Elizabeth "{{% resource_link "921bdd55-e040-4368-8310-3f27aabc9dd5" "At the Fishhouses" %}}." In _The Complete Poems, 1927-1979._ Farrar, Straus and Giroux, 1983. ISBN: 978037451872.
 
-Heaney, Seamus. "[Digging](https://www.poetryfoundation.org/poems/47555/digging)." In _Death of a Naturalist_. Faber and Faber, 2006. ISBN: 9780571230872.
+Heaney, Seamus. "{{% resource_link "acd51f3b-0dca-4679-bbc2-a95cd0b65b05" "Digging" %}}." In _Death of a Naturalist_. Faber and Faber, 2006. ISBN: 9780571230872.
 
-Moore, Marianne. "[The Fish](http://www.poets.org/poetsorg/poem/fish-1)." Poets.org.
+Moore, Marianne. "{{% resource_link "2d5534a2-ca85-48c6-82ed-b9c559972be9" "The Fish" %}}." Poets.org.
 
 Things to mark up/questions to ask when you read a poem:
 --------------------------------------------------------

@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: This is the reading and group assignment on reading a difficult poem.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -18,7 +16,7 @@ Reading
 
 Read T.S. Eliot's "The Waste Land." We have linked to a hypertext edition of the text that comes with notes.
 
-Eliot, T.S. _[The Waste Land](http://eliotswasteland.tripod.com/)_. W.W. Norton & Company, 2000. ISBN: 9780393974997.
+Eliot, T.S. _{{% resource_link "f2901268-6707-4d7c-8f03-a07d6738e083" "The Waste Land" %}}_. W.W. Norton & Company, 2000. ISBN: 9780393974997.
 
 Group Project and Essay
 -----------------------
