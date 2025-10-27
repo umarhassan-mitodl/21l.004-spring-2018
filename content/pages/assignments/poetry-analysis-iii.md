@@ -13,15 +13,15 @@ uid: d9251c7b-e2ac-ff1b-5025-0c03d45b0c56
 ---
 ## Readings
 
-Shakespeare, William. "[Sonnet 12](https://www.poetryfoundation.org/poems/90067/sonnet-12-when-i-do-count-the-clock-that-tells-the-time-578cfa272532b)." Poetry Foundation.
+Shakespeare, William. "{{% resource_link "ee2b5efe-899f-4762-a16c-5ebb7705ebcb" "Sonnet 12" %}}." Poetry Foundation.
 
-Herbert, George. "[The Collar](https://www.poetryfoundation.org/poems/44360/the-collar)." Poetry Foundation.
+Herbert, George. "{{% resource_link "cc624c2e-11fc-4cc6-8475-c610142008bf" "The Collar" %}}." Poetry Foundation.
 
-Stevens, Wallace. "[Poetry is a Destructive Force](https://www.poetryfoundation.org/poems/57606/poetry-is-a-destructive-force)." In _The Collected Poems of Wallace Stevens_. Vintage, 2015.
+Stevens, Wallace. "{{% resource_link "8cb3bbce-08fa-463b-806b-00399c50e3fd" "Poetry is a Destructive Force" %}}." In _The Collected Poems of Wallace Stevens_. Vintage, 2015.
 
-Marvell, Andrew. "[The Mower to the Glow-worms](https://www.poetryfoundation.org/poems/44685/the-mower-to-the-glow-worms)." Poetry Foundation.
+Marvell, Andrew. "{{% resource_link "494caa19-9aa4-4340-a168-a3dcda5c317c" "The Mower to the Glow-worms" %}}." Poetry Foundation.
 
-Plath, Sylvia. "[Daddy](https://www.poetryfoundation.org/poems/48999/daddy-56d22aafa45b2)" and "[Morning Song](https://www.poetryfoundation.org/poems/49008/morning-song-56d22ab4a0cee)." In _Collected Poems_. Harper Perennial Modern Classics, 2018.
+Plath, Sylvia. "{{% resource_link "91b078bf-0ae3-4010-b931-e3a050b350f2" "Daddy" %}}" and "{{% resource_link "47f1bd9b-20fb-40da-8e25-bc7d11219c7b" "Morning Song" %}}." In _Collected Poems_. Harper Perennial Modern Classics, 2018.
 
 ## Things to mark up/questions to ask when you read a poem (a running list):
 

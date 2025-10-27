@@ -42,7 +42,7 @@ Etymologies and rhythms
 5
 {{< tdclose >}}{{< tdopen >}}
 
-Guest lecture: [Shigeru Miyagawa, Senior Associate Dean of Open Learning at MIT](http://www.shigerumiyagawa.com/)
+Guest lecture: {{% resource_link "ce847116-ca58-47bb-b8e9-68dc80c69bf5" "Shigeru Miyagawa, Senior Associate Dean of Open Learning at MIT" %}}
 
 Language as system(s)
 
@@ -70,7 +70,7 @@ Fixed forms, rhymed and otherwise
 9
 {{< tdclose >}}{{< tdopen >}}
 
-Guest lecture: [Nick Montfort, Poet and MIT Professor](http://nickm.com)
+Guest lecture: {{% resource_link "1b540434-1af7-4290-be81-cac10a650f5c" "Nick Montfort, Poet and MIT Professor" %}}
 
 New work in computer-generated poetry
 
@@ -103,7 +103,7 @@ How do metaphors work?
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 14
 {{< tdclose >}}{{< tdopen >}}
-Guest lecture: [Tyehimba Jess, Poet](https://www.poetryfoundation.org/poets/tyehimba-jess)
+Guest lecture: {{% resource_link "2b2de940-a55a-411e-9efc-470df25a43dc" "Tyehimba Jess, Poet" %}}
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -115,7 +115,7 @@ How does allusion work? (History)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 16
 {{< tdclose >}}{{< tdopen >}}
-Guest lecture: [Charles Shadle, MIT Lecturer](https://mta.mit.edu/person/charles-shadle)
+Guest lecture: {{% resource_link "71604bff-ef70-40ab-9e87-7e95f63583b2" "Charles Shadle, MIT Lecturer" %}}
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -128,7 +128,7 @@ Guest lecture: Kimberly Brown, MIT Visiting Professor
 18
 {{< tdclose >}}{{< tdopen >}}
 
-Guest lecture: [Martha Collins, Poet](http://marthacollinspoet.com/)
+Guest lecture: {{% resource_link "e3eab54b-343f-40a7-8187-e2d5ff91cb6c" "Martha Collins, Poet" %}}
 
 Translating Poetry
 

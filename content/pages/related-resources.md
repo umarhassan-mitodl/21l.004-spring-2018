@@ -10,38 +10,38 @@ uid: 36dbae1f-22c4-0737-4534-30b5f4ac1058
 ---
 ## Poetry Texts
 
-[Representative Poetry Online](https://rpo.library.utoronto.ca/). A useful online anthology from the University of Toronto.
+{{% resource_link "d79b97c2-ac2b-4850-808e-9c65be4fd8ec" "Representative Poetry Online" %}}. A useful online anthology from the University of Toronto.
 
-[American Academy of Poets](https://www.poets.org/). Texts of poems and information about authors and poetic forms.
+{{% resource_link "7719b585-0241-4b32-b7a5-a8986a4e27bf" "American Academy of Poets" %}}. Texts of poems and information about authors and poetic forms.
 
-[Poetry Foundation](https://www.poetryfoundation.org/). Texts of poems and information about authors and poetic forms.
+{{% resource_link "4bf81197-2ad1-4672-8c19-bfc520c21908" "Poetry Foundation" %}}. Texts of poems and information about authors and poetic forms.
 
-[PennSound](http://writing.upenn.edu/pennsound/x/authors.php). Audio of many contemporary and some 20th c poets reading.
+{{% resource_link "3c7d0ee4-f839-4197-93d7-980c234419c4" "PennSound" %}}. Audio of many contemporary and some 20th c poets reading.
 
-[John Milton Reading Room](https://milton.host.dartmouth.edu/reading_room/contents/text.shtml). Annotated text of "Paradise Lost" and related resources.
+{{% resource_link "436d7e5a-a09a-46c4-98d0-ca128bc90419" "John Milton Reading Room" %}}. Annotated text of "Paradise Lost" and related resources.
 
 ## Reference Shelf
 
-[Purdue Online Writing Lab](https://owl.english.purdue.edu/owl/resource/570/03/). Good information on poetic feet and meter.
+{{% resource_link "f7a1bd5c-93e0-45ae-bb5f-10642d9fd58a" "Purdue Online Writing Lab" %}}. Good information on poetic feet and meter.
 
-[Oxford English Dictionary](http://www.oed.com/). The only dictionary to use. Gives history of words and their uses.
+{{% resource_link "68c23417-bb1e-468b-8c81-36fb443679d2" "Oxford English Dictionary" %}}. The only dictionary to use. Gives history of words and their uses.
 
-[For Better for Verse](http://prosody.lib.virginia.edu/). Interactive learning tool for examining meter and rhyme
+{{% resource_link "2f15edb3-8912-4254-95e3-4a45c6758007" "For Better for Verse" %}}. Interactive learning tool for examining meter and rhyme
 
-[BibleGateway](https://www.biblegateway.com/). Searchable texts of the Bible in various translations.
+{{% resource_link "6d6a3ce5-dd0f-497b-8863-5a21e38928fd" "BibleGateway" %}}. Searchable texts of the Bible in various translations.
 
 ## Online Tools
 
-[Voicethread](https://voicethread.com/). Text/audio/video commenting and content.
+{{% resource_link "a462908a-ff7c-4a96-8f52-e952dabd250b" "Voicethread" %}}. Text/audio/video commenting and content.
 
-[Genius](https://genius.com/tags/poetry). A tool for collaborative annotation.
+{{% resource_link "576b2245-ef5a-49c3-87d8-4fd77374c0e9" "Genius" %}}. A tool for collaborative annotation.
 
 ## Single Author Resources
 
-[Emily Dickinson Electronic Archives](http://www.emilydickinson.org/).
+{{% resource_link "0f71f475-ee68-4852-ad86-fb6fccf71707" "Emily Dickinson Electronic Archives" %}}.
 
-[Library of Congress site on Walt Whitman](http://www.loc.gov/rr/program/bib/whitman/). Search the LOC for the poet's digitized prose and poetry in draft.
+{{% resource_link "08b51000-0714-490c-b289-b8a691b66550" "Library of Congress site on Walt Whitman" %}}. Search the LOC for the poet's digitized prose and poetry in draft.
 
-[T.S. Eliot](http://www.english.illinois.edu/maps/poets/a_f/eliot/eliot.htm).  A useful site with biographical and critical material on Eliot.
+{{% resource_link "ede514ae-8f37-42ce-95a4-b7789e8a036d" "T.S. Eliot" %}}.  A useful site with biographical and critical material on Eliot.
 
-[John Milton Reading Room](https://milton.host.dartmouth.edu/reading_room/contents/text.shtml). Annotated text of "Paradise Lost" and related resources.
+{{% resource_link "436d7e5a-a09a-46c4-98d0-ca128bc90419" "John Milton Reading Room" %}}. Annotated text of "Paradise Lost" and related resources.

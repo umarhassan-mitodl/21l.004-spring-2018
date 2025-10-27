@@ -27,42 +27,42 @@ For essays about the poems in A, I’d like you to incorporate something that th
 
 ### Frost
 
-- Frost, Robert. "Comment on Birches." \[preview with [Google Books](https://books.google.com/books?id=y3_GxPnBbI4C&lpg=PA113&ots=rAu7blFZs0&dq=%22the%20tide%20of%20evil%20rises.%20your%20ark%20is%20sailing%22&pg=PA113#v=onepage&q&f=false)\]
-- "[Education by Poetry](https://hdl.handle.net/2027/mdp.39015016434790?urlappend=%3Bseq=97%3Bownerid=13510798895533574-105)," Amherst Alumni Council address, November 15, 29.
+- Frost, Robert. "Comment on Birches." \[preview with {{% resource_link "ea6d25e5-b722-4dd3-ac12-8f7e9d5887cf" "Google Books" %}}\]
+- "{{% resource_link "aae6954f-ad91-4398-97c2-48b92395ce6a" "Education by Poetry" %}}," Amherst Alumni Council address, November 15, 29.
 
 ### Hughes
 
-- On [music, style and dreams deferred](https://www.poetryfoundation.org/articles/69394/jazz-as-communication).
+- On {{% resource_link "e0333adf-3a09-44af-855c-abe19500e3c5" "music, style and dreams deferred" %}}.
 
 ### Jess
 
-- "[Breaking Bubbles](https://www.poetryfoundation.org/harriet/2016/11/breaking-bubbles)."
-- "[Cave Canems 20th Anniversary](https://www.poetryfoundation.org/harriet/2016/11/cave-canems-twentieth-anniversary)," a background on an organization that formed a "home for black poetry."
-- On [syncopated sonnets](https://www.youtube.com/watch?v=OmtH0A5mVnA) at TedXNashville.
+- "{{% resource_link "3ff6311c-1e83-4755-9559-d6e60bce5480" "Breaking Bubbles" %}}."
+- "{{% resource_link "ecc9c911-2e45-405f-b14d-9a4310b705f2" "Cave Canems 20th Anniversary" %}}," a background on an organization that formed a "home for black poetry."
+- On {{% resource_link "220eac43-439a-462d-804b-fa03177386f5" "syncopated sonnets" %}} at TedXNashville.
 
 ### Pardlo
 
-- "[The Language is Constructing our Ideas More Than We are Deploying the Language](http://gulfcoastmag.org/reviews-and-interviews/art-and-reviews/an-interview-with-gregory-pardlo/)", an interview with Gregory Pardlo in which he talks about improvisation vs. form, April, 2017.
+- "{{% resource_link "ccfd5118-b442-4b27-bb4e-82bee54f5f71" "The Language is Constructing our Ideas More Than We are Deploying the Language" %}}", an interview with Gregory Pardlo in which he talks about improvisation vs. form, April, 2017.
 - Interview with Gregory Pardlo, July 10, 2015; Pardlo talks about the role of conventions and talks about the idea of the "difficult" poem.
-- More interviews on [Pardlo's website](https://www.pardlo.com/interviews).
+- More interviews on {{% resource_link "e8daeb04-80f1-407b-b507-b5916d22ac02" "Pardlo's website" %}}.
 
 ### Cohen
 
-- "[Contributer Interview: Andrea Cohen (2011)](https://memoriousmag.wordpress.com/2011/03/29/contributor-interview-andrea-cohen/)," Cohen on humor, influences, diction, and more.
+- "{{% resource_link "ddcb7c69-cddb-4f7e-9e0f-69e6788f976f" "Contributer Interview: Andrea Cohen (2011)" %}}," Cohen on humor, influences, diction, and more.
 
 ### Clifton
 
-- "[Poetry Breaks: What Poetry Is](https://www.youtube.com/watch?v=qfYCRZ9LVh4)."
-- "[Poetry Breaks: Where Ideas Come From](https://www.youtube.com/watch?v=50cQSk_sF4Q)."
-- A 2007 [interview with Mosaic](https://mosaicmagazine.org/lucille-clifton-interview/#.WtC9_YjwZaQ).
+- "{{% resource_link "3a1bce38-c0df-44f5-be79-0b218d4ce410" "Poetry Breaks: What Poetry Is" %}}."
+- "{{% resource_link "d6885c82-4ee8-4ffc-a89a-9867b3bdb661" "Poetry Breaks: Where Ideas Come From" %}}."
+- A 2007 {{% resource_link "f994e77e-2288-4868-890b-69563caa77da" "interview with Mosaic" %}}.
 
 ### Trethewey
 
-- On [metaphorical language](https://lareviewofbooks.org/article/the-public-life-of-poetry-an-interview-with-natasha-trethewey) and more.
-- On [geography and the American South](https://gardenandgun.com/articles/gg-interview-natasha-trethewey/).
-- On [the "ruthlesseness" of viewing the world as a poet](https://www.oxfordamerican.org/item/745-natasha-trethewey-language-and-ruthlessness), as well as the role of photography.
-- On [photography and more](https://muse.jhu.edu/article/5478).
-- On [repetition and the layering of images](http://archived.waccamawjournal.com/pages.php?x=324).
+- On {{% resource_link "62c435a4-3e43-4dbc-9d14-4eb567a550f5" "metaphorical language" %}} and more.
+- On {{% resource_link "623019d5-9076-4e17-9766-2002e052b78b" "geography and the American South" %}}.
+- On {{% resource_link "f1b16a7c-3034-4dbb-9d97-a63008e6b39e" "the \"ruthlesseness\" of viewing the world as a poet" %}}, as well as the role of photography.
+- On {{% resource_link "0e1b2cf5-dcf4-4f69-8786-13927b0ce797" "photography and more" %}}.
+- On {{% resource_link "9f34af00-4cce-4c5c-9eba-38c8804e1804" "repetition and the layering of images" %}}.
 
 ## B: Lowell, "For the Union Dead"; Pardlo, "For Which It Stands."
 
